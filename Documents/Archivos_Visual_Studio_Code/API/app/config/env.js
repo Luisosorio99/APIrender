@@ -2,7 +2,7 @@ const env = {
     database: 'umg_swhm',
     username: 'root',
     password: 'ChwANt5khzSVbqWh47bCEA5cKyFw4DRt',
-    host: 'dpg-cqin6cggph6c738s6l9g-a.oregon-postgres.render.com',
+    host: 'dpg-cqin6cggph6c738s6l9g-a',
     dialect: 'postgres',
     pool: {
       max: 5,
